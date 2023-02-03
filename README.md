@@ -9,3 +9,5 @@ My name is Itan Kormanovskiy (He/Him). I am a student of TheSign Comics & Arts A
 
 ## Contatti
 [My Page](https://github.com/ItanSolnishko)
+
+![image](https://github.com/ItanSolnishko/ItanKormanovskiy/blob/main/%D0%B1%D0%B8%D0%BB%D0%B5%D1%82.PNG)
